@@ -5,13 +5,13 @@ https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartph
 The following files from the above repository are used:
 
 Inside the "UCI HAR Dataset folder" - 
-activity_labels.txt
+activity_labels.txt, 
 features.txt
 
 Inside "train" folder - 
-X_train.txt
+X_train.txt, 
 y_train.txt
 
 Inside the "test" folder - 
-X_test.txt
+X_test.txt, 
 y_test.txt
